@@ -104,7 +104,7 @@
 			
 			- Explicar a dualidade Low (bits) VS. High (data struct) Optimization
 
-	- Abordagem Matematíca 
+	- Abordagem Matemática 
 
 		- A (1805-2Matematica.c)
 
@@ -132,7 +132,7 @@
 
 			- Em comparação com C, onde 1 abordagem de força bruta passou, aq não passou nenhuma delas.
 
-	- Abordagem Matematíca
+	- Abordagem Matemática
 
 		- A (1805-2Matematica.py)
 
