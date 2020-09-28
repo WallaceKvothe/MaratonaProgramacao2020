@@ -3,7 +3,9 @@
 
 ### Maratona de Programação - Fase I de 2020 - Intermediário
 
-## 28/09/2020 - 18:00 horas
+*****
+
+# 28/09/2020 - 18:00 horas
 
 *****
 
@@ -141,8 +143,12 @@
 			- Veja como o tempo de execução alterou
 
 
+
 *********
 
+# 30/09/2020 - 18:00 horas
+
+*********
 
 
 
